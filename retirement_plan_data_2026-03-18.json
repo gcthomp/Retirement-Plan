@@ -1,0 +1,88 @@
+{
+  "version": "v22",
+  "exported": "2026-03-18T15:22:51.024Z",
+  "checkins": [
+    {
+      "key": "2035-01",
+      "year": 2035,
+      "month": 1,
+      "actual": {
+        "k401": 0,
+        "rothG": 0,
+        "rothR": 0,
+        "hsa": 0,
+        "total": 0
+      },
+      "model": {
+        "k401": 252591,
+        "rothG": 192261,
+        "rothR": 60594,
+        "hsa": 133587,
+        "total": 639032
+      }
+    },
+    {
+      "key": "2030-03",
+      "year": 2030,
+      "month": 3,
+      "actual": {
+        "k401": 175000,
+        "rothG": 0,
+        "rothR": 0,
+        "hsa": 0,
+        "total": 175000
+      },
+      "model": {
+        "k401": 155967,
+        "rothG": 113554,
+        "rothR": 14205,
+        "hsa": 64870,
+        "total": 348596
+      }
+    },
+    {
+      "key": "2027-07",
+      "year": 2027,
+      "month": 7,
+      "actual": {
+        "k401": 15000,
+        "rothG": 15000,
+        "rothR": 10000,
+        "hsa": 40000,
+        "total": 80000
+      },
+      "model": {
+        "k401": 113219,
+        "rothG": 78734,
+        "rothR": 1012,
+        "hsa": 34468,
+        "total": 227434
+      }
+    },
+    {
+      "key": "2026-03",
+      "year": 2026,
+      "month": 3,
+      "actual": {
+        "k401": 100000,
+        "rothG": 100000,
+        "rothR": 0,
+        "hsa": 100000,
+        "total": 300000
+      },
+      "model": {
+        "k401": 94211,
+        "rothG": 63250,
+        "rothR": 0,
+        "hsa": 20950,
+        "total": 178411
+      }
+    }
+  ],
+  "ramp": {
+    "ramp-2027": false,
+    "ramp-2028": false,
+    "ramp-2029": false,
+    "ramp-2030": false
+  }
+}
